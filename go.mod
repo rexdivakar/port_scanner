@@ -1,3 +1,3 @@
 module port_scanner
 
-go 1.21.0
+go 1.21
